@@ -101,7 +101,7 @@ eksctl create cluster --name cluster-name  \
 `	
 ## Mumbai: <br/>
 `
-eksctl create cluster --name cloudaseem-cluster4 --region ap-south-1 --node-type t2.medium  --zones ap-south-1a,ap-south-1b
+eksctl create cluster --name cloudaseem-cluster4 --region eu-north-1 --node-type t3.medium  --zones eu-north-1a,eu-north-1b
 
 
 `
